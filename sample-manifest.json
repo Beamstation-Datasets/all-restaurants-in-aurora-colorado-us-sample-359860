@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6ce2bce5-5814-400f-a5ed-b1376c4b8977",
+  "export_job_id": "739ffd96-fa7b-4423-ba84-01f9ad5f5771",
   "id_short": 359860,
-  "published_at": "2026-04-23T19:36:29Z",
+  "published_at": "2026-04-30T19:31:11Z",
   "repo_name": "all-restaurants-in-aurora-colorado-us-sample-359860",
   "sample_asset_name": "beamstation_359860_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/359860/beamstation_359860_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 86,
-  "sample_sha256": "c65e919fe6ef3385a7287fd7883009668b0f5681dc4215fff43f644bf3459d0e",
-  "sample_size_bytes": 332884,
-  "total_records": 868
+  "sample_records": 123,
+  "sample_sha256": "a9a6a6c786b147d0060187727792d618f9440b277c03872ed360af1a615a61bb",
+  "sample_size_bytes": 416317,
+  "total_records": 1232
 }
