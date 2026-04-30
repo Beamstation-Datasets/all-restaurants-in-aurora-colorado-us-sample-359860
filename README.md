@@ -1,6 +1,6 @@
 # All Restaurants in Aurora, Colorado, US
 
-> Free BeamStation sample export with 86 rows and masked direct-contact fields.
+> Free BeamStation sample export with 123 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `359860` |
 | Location | Aurora |
 | Category | Restaurants |
-| Full dataset size | 868 records |
-| Free sample size | 86 records (9.91%) |
-| Last export | 2026-04-23T09:50:51.958539+00:00 |
+| Full dataset size | 1,232 records |
+| Free sample size | 123 records (9.98%) |
+| Last export | 2026-04-30T09:58:36.554341+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-aurora-colorado-us-sample-359860/releases/download/sample-latest/beamstation_359860_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample
